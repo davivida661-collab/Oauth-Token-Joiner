@@ -1,11 +1,11 @@
 {
     "bot": {
         "BotToken": "MTQ5MTg0NjUyMjQ3MDY2NjQzMw.GfPZEy.F9bQ63JtW0m_A81WQHWVeuF2Wg0fgV0QzCqEgw",
-        "Client_Id": "",
+        "Client_Id": "1491846522470666433",
         "Client_Secret": "",
         "Whitelisted_Ids": [
             "1486848700331462826",
-            ""
+            "JKUUQ_HndkB7LvKeWdR8g0-jJRVtjXN5"
         ],
         "RegisterCommand": true,
         "Auto_Role": false
